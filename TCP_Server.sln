@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_Server", "TCP_Server\TCP_Server.csproj", "{B0B44F60-601A-452F-8C9B-02B58F5E050A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP_Client", "TCP_Client\TCP_Client.csproj", "{03775F7E-D282-4CB1-8E28-7D3468217E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLLData", "DLLData\DLLData.csproj", "{628E6903-3A24-474E-8138-58C113781EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B44F60-601A-452F-8C9B-02B58F5E050A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B44F60-601A-452F-8C9B-02B58F5E050A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B44F60-601A-452F-8C9B-02B58F5E050A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B44F60-601A-452F-8C9B-02B58F5E050A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03775F7E-D282-4CB1-8E28-7D3468217E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03775F7E-D282-4CB1-8E28-7D3468217E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03775F7E-D282-4CB1-8E28-7D3468217E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03775F7E-D282-4CB1-8E28-7D3468217E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628E6903-3A24-474E-8138-58C113781EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628E6903-3A24-474E-8138-58C113781EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628E6903-3A24-474E-8138-58C113781EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628E6903-3A24-474E-8138-58C113781EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDFFF84-AA6E-4AC9-BEA2-70189EAFBF33}
+	EndGlobalSection
+EndGlobal
